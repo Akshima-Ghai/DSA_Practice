@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-//useless
+//use
 using namespace std;
 int main()
 {

@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 //check odd and even
 int main()

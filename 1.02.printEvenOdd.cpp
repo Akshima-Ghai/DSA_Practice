@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//check odd and even
+//check odd 
 int main()
 {
     

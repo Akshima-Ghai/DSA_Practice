@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//hel
+//h
 int main()
 {
     cout<<"Welcome to Girl Code It";

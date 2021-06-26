@@ -1,5 +1,5 @@
 #include <iostream>
-//hel
+//h
 using namespace std;
 
 int main()

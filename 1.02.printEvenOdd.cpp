@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//print even or odd
 int main()
 {
     

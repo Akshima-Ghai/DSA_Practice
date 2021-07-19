@@ -1,7 +1,6 @@
 #include <iostream>
 //max between two numbers
 
-
 using namespace std;
 
 int main()

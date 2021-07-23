@@ -7,13 +7,6 @@ int main()
     
     int n;
     cin>>n;
-    if(n>0){
-        cout<<n<<" is positive";
-    }else if(n<0){
-        cout<<n<<" is negative";    
-    }else{
-        cout<<n<<" is zero";
-    }
-    
+    (n<0) ? cout<<n<<" is negative" : ((n == 0) ?  cout<<n<<" is zero" : cout<<n<<" is positive") ;
     return 0;
 }
